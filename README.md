@@ -6,12 +6,12 @@
 
 • Programming languages: Python, JavaScript  
 • Web technologies: HTML, CSS  
-• Tools: Git, Visual Studio Code  
+• Tools: Visual Studio Code  
 
 ▎📫 How to Contact Me
 
 • Email:  
-n3tr0zh@hmail.com  
+n3tr0zh@gmail.com  
 
 ▎🔗 My Projects
 
