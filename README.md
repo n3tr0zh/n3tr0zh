@@ -1,16 +1,18 @@
-## Hi there 👋
+▎Hello! I'm Netrozh👋
 
-<!--
-**n3tr0zh/n3tr0zh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+• I'm a beginner programmer who is passionate about learning technologies and software development. My journey into the world of programming started recently, and I strive to develop my skills and create interesting projects.
 
-Here are some ideas to get you started:
+▎🛠 Technologies and Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+• Programming languages: Python, JavaScript  
+• Web technologies: HTML, CSS  
+• Tools: Git, Visual Studio Code  
+
+▎📫 How to Contact Me
+
+• Email:  
+n3tr0zh@hmail.com  
+
+▎🔗 My Projects
+
+• Currently empty  
